@@ -1,0 +1,4 @@
+1. admin pw admin
+2. pimpinan pw pimpinan
+3. guru pw guru
+4. siswa pw siswa
